@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-13T13:50:38.175152100Z</date>
+  <millis>1686664238175</millis>
+  <nanos>152100</nanos>
+  <sequence>0</sequence>
+  <logger>task_</logger>
+  <level>INFO</level>
+  <class>task_</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 6, 4, 2, 10]</message>
+</record>
+<record>
+  <date>2023-06-13T13:50:38.225923700Z</date>
+  <millis>1686664238225</millis>
+  <nanos>923700</nanos>
+  <sequence>1</sequence>
+  <logger>task_</logger>
+  <level>INFO</level>
+  <class>task_</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 4, 2, 8, 10]</message>
+</record>
+<record>
+  <date>2023-06-13T13:50:38.226899700Z</date>
+  <millis>1686664238226</millis>
+  <nanos>899700</nanos>
+  <sequence>2</sequence>
+  <logger>task_</logger>
+  <level>INFO</level>
+  <class>task_</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[4, 2, 6, 8, 10]</message>
+</record>
+<record>
+  <date>2023-06-13T13:50:38.227876100Z</date>
+  <millis>1686664238227</millis>
+  <nanos>876100</nanos>
+  <sequence>3</sequence>
+  <logger>task_</logger>
+  <level>INFO</level>
+  <class>task_</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 4, 6, 8, 10]</message>
+</record>
+</log>
